@@ -1,3 +1,18 @@
+## My Contribution
+
+As the **Quality Assurance (QA) Engineer** for *Project Prism*, I was responsible for ensuring the delivery of a reliable and high-quality product. My key contributions include:
+
+- **Test Planning & Design** – Created comprehensive manual and automated test cases based on project requirements.
+- **Defect Tracking & Management** – Identified, documented, and tracked defects using **JIRA**.
+- **Functional & Regression Testing** – Performed thorough testing to validate new features and ensure previous functionalities remained unaffected.
+- **API Testing** – Verified API endpoints and responses using **Postman**.
+- **UI/UX Validation** – Ensured consistent design, responsiveness, and user experience across devices.
+- **Performance & Load Testing** – Conducted performance testing and load simulation using **Apache JMeter** to ensure system stability under expected workloads.
+- **Automation** – Developed and executed automated test scripts using **Selenium**.
+
+**Tools & Technologies:** JIRA, Postman, Selenium, Apache JMeter, GitHub
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
